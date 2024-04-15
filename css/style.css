@@ -1,0 +1,18 @@
+
+dl {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+
+div {
+    width: 200px;
+}
+
+p {
+    margin-left: 40px;
+    height: 5px;
+}
+
+span {
+    margin-left: 10px;
+}
